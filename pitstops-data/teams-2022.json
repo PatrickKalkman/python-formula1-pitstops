@@ -1,0 +1,174 @@
+{
+    "teams": [
+        {
+            "name": "Mercedes",
+            "drivers": [
+                {
+                    "name": "Lewis Hamilton",
+                    "number": 44,
+                    "driverId": "hamilton"
+                },
+                {
+                    "name": "Valtteri Bottas",
+                    "number": 77,
+                    "driverId": "bottas"
+                }
+            ]
+        },
+        {
+            "name": "Red Bull Racing",
+            "drivers": [
+                {
+                    "name": "Max Verstappen",
+                    "number": 33,
+                    "driverId": "max_verstappen"
+                },
+                {
+                    "name": "Sergio Perez",
+                    "number": 11,
+                    "driverId": "perez"
+                }
+            ]
+        },
+        {
+            "name": "McLaren",
+            "drivers": [
+                {
+                    "name": "Lando Norris",
+                    "number": 4,
+                    "driverId": "norris"
+                },
+                {
+                    "name": "Daniel Ricciardo",
+                    "number": 3,
+                    "driverId": "ricciardo"
+                }
+            ]
+        },
+        {
+            "name": "Ferrari",
+            "drivers": [
+                {
+                    "name": "Charles Leclerc",
+                    "number": 16,
+                    "driverId": "leclerc"
+                },
+                {
+                    "name": "Carlos Sainz",
+                    "number": 55,
+                    "driverId": "sainz"
+                }
+            ]
+        },
+        {
+            "name": "Alpine",
+            "drivers": [
+                {
+                    "name": "Fernando Alonso",
+                    "number": 14,
+                    "driverId": "alonso"
+                },
+                {
+                    "name": "Esteban Ocon",
+                    "number": 31,
+                    "driverId": "ocon"
+                }
+            ]
+        },
+        {
+            "name": "AlphaTauri",
+            "drivers": [
+                {
+                    "name": "Pierre Gasly",
+                    "number": 10,
+                    "driverId": "gasly"
+                },
+                {
+                    "name": "Yuki Tsunoda",
+                    "number": 22,
+                    "driverId": "tsunoda"
+                }
+            ]
+        },
+        {
+            "name": "Aston Martin",
+            "drivers": [
+                {
+                    "name": "Sebastian Vettel",
+                    "number": 5,
+                    "driverId": "vettel"
+                },
+                {
+                    "name": "Lance Stroll",
+                    "number": 18,
+                    "driverId": "stroll"
+                }
+            ]
+        },
+        {
+            "name": "Williams",
+            "drivers": [
+                {
+                    "name": "George Russell",
+                    "number": 63,
+                    "driverId": "russell"
+                },
+                {
+                    "name": "Nicholas Latifi",
+                    "number": 6,
+                    "driverId": "latifi"
+                },
+                {
+                    "name": "Alexander Albon",
+                    "number": 37,
+                    "driverId": "albon"
+                }
+            ]
+        },
+        {
+            "name": "Haas",
+            "drivers": [
+                {
+                    "name": "Mick Schumacher",
+                    "number": 47,
+                    "driverId": "mick_schumacher"
+                },
+                {
+                    "name": "Nikita Mazepin",
+                    "number": 9,
+                    "driverId": "mazepin"
+                },
+                {
+                    "name": "Nico Hülkenberg",
+                    "number": 54,
+                    "driverId": "hulkenberg"
+                },
+                {
+                    "name": "Kevin Magnussen",
+                    "number": 332,
+                    "driverId": "kevin_magnussen"
+                }
+            ]
+        },
+        {
+            "name": "Alfa Romeo",
+            "drivers": [
+                {
+                    "name": "Antonio Giovinazzi",
+                    "number": 99,
+                    "driverId": "giovinazzi"
+                },
+                {
+                    "name": "Robert Kubica",
+                    "number": 88,
+                    "driverId": "kubica"
+                },
+                {
+                    "name": "Zhou Guanyu",
+                    "number": 22,
+                    "driverId": "zhou"
+                }
+            ]
+        }
+    ]
+}
